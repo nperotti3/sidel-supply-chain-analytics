@@ -1,4 +1,4 @@
-# Sidel Supply Chain Analytics: On-Time Delivery & Inventory Optimization
+# Supply Chain Analytics: On-Time Delivery & Inventory Optimization
 
 ## 📌 Overview
 Analyzes Sidel’s supply chain data to fix misalignment between HQ stocking policy and real demand at the Georgia DC. We used **regression** and **K-means clustering** to evaluate order timeliness and improve ABC categorization.
